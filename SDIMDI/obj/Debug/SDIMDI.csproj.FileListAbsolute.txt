@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\SDIMDI\SDIMDI\bin\Debug\SDIMDI.exe.config
+C:\Users\Asus\source\repos\SDIMDI\SDIMDI\bin\Debug\SDIMDI.exe
+C:\Users\Asus\source\repos\SDIMDI\SDIMDI\bin\Debug\SDIMDI.pdb
+C:\Users\Asus\source\repos\SDIMDI\SDIMDI\obj\Debug\SDIMDI.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SDIMDI\SDIMDI\obj\Debug\SDIMDI.Form2.resources
+C:\Users\Asus\source\repos\SDIMDI\SDIMDI\obj\Debug\SDIMDI.Properties.Resources.resources
+C:\Users\Asus\source\repos\SDIMDI\SDIMDI\obj\Debug\SDIMDI.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\SDIMDI\SDIMDI\obj\Debug\SDIMDI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SDIMDI\SDIMDI\obj\Debug\SDIMDI.exe
+C:\Users\Asus\source\repos\SDIMDI\SDIMDI\obj\Debug\SDIMDI.pdb
+C:\Users\Asus\source\repos\SDIMDI\SDIMDI\obj\Debug\SDIMDI.FormSDIMDI.resources
+C:\Users\Asus\source\repos\SDIMDI\SDIMDI\obj\Debug\SDIMDI.Form4.resources
+C:\Users\Asus\source\repos\SDIMDI\SDIMDI\bin\Debug\MySql.Data.dll
+C:\Users\Asus\source\repos\SDIMDI\SDIMDI\bin\Debug\Google.Protobuf.dll
+C:\Users\Asus\source\repos\SDIMDI\SDIMDI\bin\Debug\MySql.Data.xml
+C:\Users\Asus\source\repos\SDIMDI\SDIMDI\obj\Debug\SDIMDI.csproj.CopyComplete
+C:\Users\Asus\source\repos\SDIMDI\SDIMDI\obj\Debug\SDIMDI.Form3.resources
